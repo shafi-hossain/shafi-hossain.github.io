@@ -11,14 +11,14 @@ Personal portfolio site, built as plain HTML/CSS/JS with no build step. Hosted o
 
 ## Publish on GitHub Pages
 
-1. Sign in to GitHub and create a **new public repository** named exactly `<your-username>.github.io`
-   (for example, if your username is `shafi-hossain`, name it `shafi-hossain.github.io`).
+1. Sign in to GitHub as **shafi-hossain** and create a **new public repository** named exactly
+   `shafi-hossain.github.io`. Leave "Add a README" unticked.
 2. On the new repo page click **uploading an existing file**, then drag in `index.html`, `README.md`,
    `.nojekyll` and the `assets` folder. Click **Commit changes**.
    (Hidden files: on macOS press Cmd+Shift+. in Finder to see `.nojekyll`. It's optional.)
 3. Go to **Settings → Pages**. Under *Build and deployment*, set Source to **Deploy from a branch**,
    branch **main**, folder **/ (root)**, and save.
-4. Wait 1–2 minutes, then open `https://<your-username>.github.io/`.
+4. Wait 1–2 minutes, then open https://shafi-hossain.github.io/
 
 ## Updating
 
